@@ -18,7 +18,7 @@ The Boost Compute Guidelines is a set of examples, tutorials, interesing issues,
 * Workshops, conferences:
 	* [C++Now'15](https://github.com/boostcon/cppnow_presentations_2015), [Video](https://www.youtube.com/watch?v=q7oCblCtTT8)
 	* [GTC'15](http://on-demand-gtc.gputechconf.com/gtc-quicklink/aHiTrw5)
-	* [IWOCL'16](https://github.com/boostcon/cppnow_presentations_2015)
+	* [IWOCL'16](http://www.iwocl.org/wp-content/uploads/iwocl-2016-boost-compute.pdf)
 
 ## Contributions
 
